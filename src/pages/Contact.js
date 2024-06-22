@@ -58,7 +58,7 @@ const Contact = () => {
               </TableRow>
               <TableRow>
                 <TableCell>
-                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> help@myrest.com
+                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> rahul211136@gmail.com
                 </TableCell>
               </TableRow>
               <TableRow>
